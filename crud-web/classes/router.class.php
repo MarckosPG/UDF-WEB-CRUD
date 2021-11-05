@@ -20,7 +20,7 @@
                     require_once("./pages/cadastro-curso.page.php");
                     break;
                 default: 
-                    require_once("./pages/error.page.php");
+                    require_once("./pages/home.page.php");
                     break;
             }
         }
